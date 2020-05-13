@@ -1,0 +1,5 @@
+Creating a test web project using Spring Boot with a connected MySQL database via phpMyAdmin.
+Functional:
+1). Adding an article to the site;
+2). Writing an article to the database;
+3). Possibilities for editing / deleting articles directly on the site.
